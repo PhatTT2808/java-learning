@@ -9,9 +9,13 @@ import java.util.Scanner;
 public class print_HelloWorld {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+
         int x = sc.nextInt();
+        
         System.out.println(x);
         System.out.print("Hello World !\n");
         System.out.println("Java programming !");
+
+        sc.close();
     }
 }

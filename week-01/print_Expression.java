@@ -15,7 +15,7 @@ public class print_Expression {
         
         int X = sc.nextInt(), Y = sc.nextInt(), Z = sc.nextInt(), T = sc.nextInt();
         System.out.println(Y + "," + Z + "," + X + "," + T);
-        System.out.println(1L*X + Y + Z + T);
+        System.out.println((long)X + Y + Z + T);
         System.out.println(X - Y + 1L*Z * T);
 
         sc.close();

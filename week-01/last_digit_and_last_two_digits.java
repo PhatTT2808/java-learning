@@ -9,7 +9,7 @@ Dòng 2 in ra 2 chữ số cuối cùng nếu 2 chữ số cuối cùng của N 
 
 import java.util.Scanner;
 
-public class last_digit_and_last_two_digit {
+public class last_digit_and_last_two_digits {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

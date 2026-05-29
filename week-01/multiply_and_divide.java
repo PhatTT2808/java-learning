@@ -18,7 +18,7 @@ public class multiply_and_divide {
         int N = sc.nextInt();
 
         System.out.println(2*N);
-        System.out.println(10*N);
+        System.out.println((long)10*N);
         System.out.println(N/2);
         System.out.printf("%.3f", (double)N/2);
 

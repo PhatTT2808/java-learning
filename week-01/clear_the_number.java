@@ -18,6 +18,7 @@ public class clear_the_number {
 
             System.out.println(value);
 
+        sc.close();
 
     }
 }

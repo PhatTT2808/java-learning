@@ -18,7 +18,7 @@ public class use_cout {
         int x = sc.nextInt(), y = sc.nextInt(), z = sc.nextInt(), t = sc.nextInt();
         System.out.println(x + " " + y + " " + z + " " + t);
         System.out.println(x + "--" + y + "--" + z + "--" + t);
-        System.out.println(1L*2*x + "," + 1L*3*y + "," + 1L*4*z + "," + 5*t);
+        System.out.println(1L*2*x + "," + 1L*3*y + "," + 1L*4*z + "," + 1L*5*t);
         System.out.println("KẾT THÚC !!");
 
         sc.close();

@@ -1,7 +1,7 @@
 /*
 Cho 2 số a và b, in ra số lượng số nguyên tính từ a đến b
 Đầu vào
-2 số nguyên dương a, b (1<=a,b<=10^12)
+2 số nguyên dương a, b (1<=a,b<=10^12, b>a)
 Đầu ra
 Số lượng số nguyên tình từ a đến b
 */
